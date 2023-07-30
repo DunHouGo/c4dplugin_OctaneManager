@@ -1,0 +1,26 @@
+# menu
+100
+ID_MENU_START /// 新建 /// Add
+ID_MENU_ADD_GROUP /// 新建ID组 /// Add ID Group
+
+ID_MENU_ABOUTTITLE /// 关于 /// About
+ID_MENU_WEBSITE /// Boghma官网 /// Boghma Website
+ID_MENU_COMMUNITY /// Boghma社区论坛 /// Boghma Community
+ID_MENU_ONLINEHELP /// 在线文档 /// Online Document
+ID_MENU_ABOUT /// 关于 /// About
+
+
+#Group
+1000
+ID_Group_None
+
+#other
+2000
+ID_Item_None
+ID_Info 消息 Infomation
+ID_Test 测试 TEST
+
+#button
+2000
+ID_BTM_REFRESH /// 刷新 : R /// Refresh : R
+ID_BTM_GROUP /// 灯光ID组 /// Light ID Group
