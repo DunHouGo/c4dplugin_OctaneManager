@@ -1,9 +1,9 @@
 ### Cinema 4D Octane 灯光管理器
 
 当前版本 ：1.0.0
-<aside>
+
 🔒支持版本：Cinema 4D R26以上
-</aside>
+
 
 文档移植中，源文档可以查看 ： [RenderFlow](https://dunhou.gitbook.io/dh-renderflow/)
 
