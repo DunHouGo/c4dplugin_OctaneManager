@@ -5,7 +5,7 @@
 🔒支持版本：Cinema 4D R26以上
 </aside>
 
- [文档](https://flowus.cn/4a0aac19-8c03-4c13-8d5d-56290e382e94)
+ [说明文档](https://flowus.cn/4a0aac19-8c03-4c13-8d5d-56290e382e94)
 
 # Standalone Download--独立版下载
 
