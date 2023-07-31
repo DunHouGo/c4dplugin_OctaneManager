@@ -2,7 +2,7 @@
 
 当前版本 ：1.0.0
 
-🔒支持版本：Cinema 4D R26以上
+🔒支持版本：Cinema 4D R2023.2.0以上
 
 
  [说明文档](https://flowus.cn/4a0aac19-8c03-4c13-8d5d-56290e382e94)
@@ -19,7 +19,6 @@
 
 - 内测中
 
-https://github.com/DunHouGo/c4dplugin_OctaneManager/archive/refs/heads/main.zip
 # Install--安装
 
 - （**新版管理器内测中**）推荐使用 Boghma PluginManager统一管理安装更新
