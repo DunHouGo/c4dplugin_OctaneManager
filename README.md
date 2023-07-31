@@ -19,7 +19,7 @@
 
 - 内测中
 
-
+https://github.com/DunHouGo/c4dplugin_OctaneManager/archive/refs/heads/main.zip
 # Install--安装
 
 - （**新版管理器内测中**）推荐使用 Boghma PluginManager统一管理安装更新
